@@ -5,3 +5,5 @@ view/index.html
 view/tes.php
 view/index.php
 vendor
+logs
+tmp
